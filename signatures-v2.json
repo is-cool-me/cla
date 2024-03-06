@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "LightHostingFree",
+      "id": 141650265,
+      "comment_id": 1979872377,
+      "created_at": "2024-03-06T00:38:58Z",
+      "repoId": 736572617,
+      "pullRequestNo": 56
+    }
+  ]
 }
